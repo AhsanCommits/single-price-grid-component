@@ -36,7 +36,7 @@ Mobile Screenshot
 
 ### Links
 
-- Solution URL: [View](https://your-solution-url.com)
+- Solution URL: [View](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-using-css-grid-and-nextjs-hH_SBJj-io)
 - Live Site URL: [Visit](https://single-price-grid-component-one-cyan.vercel.app/)
 
 ## My process
