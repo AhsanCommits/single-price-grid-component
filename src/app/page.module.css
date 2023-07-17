@@ -101,7 +101,7 @@
     grid-template-areas: 'upperSection' 'leftSection' 'rightSection';
     grid-template-rows: repeat(3, auto);
     grid-template-columns: 1fr;
-    width: 100%;
+    width: 95%;
     height: auto;
     padding: 2rem;
   }
@@ -116,9 +116,6 @@
   .rightSection {
     grid-column: 1;
     border-radius: 0 0 0.7rem 0.7rem;
-  }
-  .signUp {
-    padding: 1rem 5.688rem;
   }
 }
 
